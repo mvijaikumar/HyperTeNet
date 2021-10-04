@@ -1,5 +1,5 @@
 # HyperTeNet
-#### Hypergraph and Transformer-based Neural Network for Personalized List Continuation, ICDM 2021. Vijaikumar M, Deepesh Hada, Shirish Shevade
+#### Hypergraph and Transformer-based Neural Network for Personalized List Continuation, Vijaikumar M, Deepesh Hada, Shirish Shevade, ICDM 2021. 
 
 ------------
 ### Dependencies
